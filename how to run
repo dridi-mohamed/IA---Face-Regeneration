@@ -5,11 +5,15 @@
 ██      ██   ██  ██████ ███████     ██   ██ ███████  ██████  ███████ ██   ████ ███████ ██   ██ ██   ██    ██    ██  ██████  ██   ████ 
 
 
-# 1 thnaks for  the builder of this Code 
+# 1 thnaks for  Time 
+this guy its righte the code 
 
-
+# link Downloade 
+ https://techwithtim.net/face_rec/
+ https://www.youtube.com/watch?v=D5xqcGk6LEc
 
 # install python + pip 
+sudo apt install pip python 
 
 
 # install those liberse 
@@ -23,5 +27,14 @@ numpy
 
 Notes :
 
+1 can put all libers in one fil.txt and use "pip install <name-file>"
+2 if have problme with pip install run the "pip --upagred"
 
-# 
+# 3 change the TRUMP picter to auter pictuer explame can use "kim jong"
+Note : if the name of picker not test.jpg the code its nor running 
+
+# run code
+python fac_rec
+
+
+
