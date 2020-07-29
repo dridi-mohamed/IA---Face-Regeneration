@@ -1,0 +1,4 @@
+When use Docker or SSH or Mobaxterm we can't use garpgiqul app to open and see file so we move the resule to JPG files and copier next to auther machien or server
+
+ python face_rec.py > faces.jpg
+
